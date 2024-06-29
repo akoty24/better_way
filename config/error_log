@@ -1,0 +1,4 @@
+[22-Jun-2024 18:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/nfcads/public_html/backend/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/nfcads/public_html/backend/config/database.php on line 18
